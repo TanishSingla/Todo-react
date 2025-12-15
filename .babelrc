@@ -1,3 +1,4 @@
 {
   "presets": [["@babel/preset-react", { "runtime": "automatic" }]]
 }
+//“Automatically import what JSX needs behind the scenes.”
