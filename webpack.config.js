@@ -24,6 +24,9 @@ export default {
       },
     ],
   },
+  resolve: {
+    extensions: [".js", ".jsx"],
+  },
 
   plugins: [
     new HtmlWebpackPlugin({
